@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Ambulance Service",
+    "short_description": "24/7 emergency and non-emergency ambulance support with trained staff.",
+    "category": "Health",
+    "availability": "24/7",
+    "image": "/images/services/ambulance.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Telemedicine Service",
+    "short_description": "Online doctor consultations and prescriptions through video or phone.",
+    "category": "Health",
+    "availability": "Everyday, 8 AM - 10 PM",
+    "image": "/images/services/telemedicine.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Blood Donation Service",
+    "short_description": "Find donors, request blood, and manage donation drives.",
+    "category": "Health",
+    "availability": "On Request",
+    "image": "/images/services/blood-donation.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Education Equipment Support",
+    "short_description": "Provide books, stationery, and digital devices for students in need.",
+    "category": "Education",
+    "availability": "Monthly Distribution",
+    "image": "/images/services/education-equipment.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Zakat Distribution",
+    "short_description": "Transparent and targeted zakat distribution to eligible individuals.",
+    "category": "Charity",
+    "availability": "Ramadan & Special Requests",
+    "image": "/images/services/zakat.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Oxygen Cylinder Service",
+    "short_description": "Medical oxygen supply for patients at home or in hospital.",
+    "category": "Health",
+    "availability": "24/7",
+    "image": "/images/services/oxygen-cylinder.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Wheelchair Distribution",
+    "short_description": "Provide manual and electric wheelchairs to people with mobility issues.",
+    "category": "Health & Accessibility",
+    "availability": "On Request",
+    "image": "/images/services/wheelchair.jpg"
+  }
+]

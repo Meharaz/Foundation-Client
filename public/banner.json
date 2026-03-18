@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "image": "/src/assets/all_imag/Banner/agm-11.jpeg",
+    "title": "AGM Program",
+    "description": "Annual general meeting highlights"
+  },
+  {
+    "id": 2,
+    "image": "/src/assets/all_imag/Banner/ambulance_svc-5.jpg",
+    "title": "Ambulance Service",
+    "description": "Emergency support activity"
+  },
+  {
+    "id": 3,
+    "image": "/src/assets/all_imag/Banner/blanket_dist-19.jpeg",
+    "title": "Blanket Distribution",
+    "description": "Helping people in winter"
+  },
+  {
+    "id": 4,
+    "image": "/src/assets/all_imag/Banner/blood_grp_camp-5.jpeg",
+    "title": "Blood Group Camp",
+    "description": "Community blood testing"
+  },
+  {
+    "id": 5,
+    "image": "/src/assets/all_imag/Banner/blood_grp_camp-13.jpeg",
+    "title": "Blood Group Camp",
+    "description": "Awareness and testing program"
+  },
+  {
+    "id": 6,
+    "image": "/src/assets/all_imag/Banner/bm_dipo-5.jpeg",
+    "title": "BM Dipo Activity",
+    "description": "Volunteer engagement"
+  },
+  {
+    "id": 7,
+    "image": "/src/assets/all_imag/Banner/burial_svc-9.jpg",
+    "title": "Burial Service",
+    "description": "Community support service"
+  },
+  {
+    "id": 8,
+    "image": "/src/assets/all_imag/Banner/covid-1.jpg",
+    "title": "COVID Support",
+    "description": "Pandemic response activity"
+  },
+  {
+    "id": 9,
+    "image": "/src/assets/all_imag/Banner/covid-2.jpg",
+    "title": "COVID Awareness",
+    "description": "Public health awareness"
+  },
+  {
+    "id": 10,
+    "image": "/src/assets/all_imag/Banner/covid-20.jpg",
+    "title": "COVID Relief",
+    "description": "Helping affected families"
+  },
+  {
+    "id": 11,
+    "image": "/src/assets/all_imag/Banner/covid-24.jpg",
+    "title": "COVID Field Work",
+    "description": "On-ground support activity"
+  },
+  {
+    "id": 12,
+    "image": "/src/assets/all_imag/Banner/edu_equip_dist-2.jpg",
+    "title": "Education Equipment Distribution",
+    "description": "Supporting students"
+  },
+  {
+    "id": 13,
+    "image": "/src/assets/all_imag/Banner/rec_prog_2022-3.jpg",
+    "title": "Recreation Program 2022",
+    "description": "Fun and engagement"
+  },
+  {
+    "id": 14,
+    "image": "/src/assets/all_imag/Banner/rec_prog_2022-4.jpg",
+    "title": "Recreation Program 2022",
+    "description": "Community activities"
+  },
+  {
+    "id": 15,
+    "image": "/src/assets/all_imag/Banner/rec_prog_2022-5.jpg",
+    "title": "Recreation Program 2022",
+    "description": "Event highlights"
+  },
+  {
+    "id": 16,
+    "image": "/src/assets/all_imag/Banner/rec_prog_2022-18.jpg",
+    "title": "Recreation Program 2022",
+    "description": "Memorable moments"
+  },
+  {
+    "id": 17,
+    "image": "/src/assets/all_imag/Banner/rec_prog-5.jpg",
+    "title": "Recreation Program",
+    "description": "Team activities"
+  },
+  {
+    "id": 18,
+    "image": "/src/assets/all_imag/Banner/school_prog-1.jpg",
+    "title": "School Program",
+    "description": "Educational initiative"
+  },
+  {
+    "id": 19,
+    "image": "/src/assets/all_imag/Banner/school_prog-2.jpg",
+    "title": "School Program",
+    "description": "Student engagement"
+  },
+  {
+    "id": 20,
+    "image": "/src/assets/all_imag/Banner/school_prog-8.jpeg",
+    "title": "School Program",
+    "description": "Learning activities"
+  },
+  {
+    "id": 21,
+    "image": "/src/assets/all_imag/Banner/train_prog-8.jpg",
+    "title": "Training Program",
+    "description": "Skill development session"
+  }
+]

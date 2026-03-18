@@ -1,0 +1,84 @@
+{
+    "ongoing_projects": [
+        {
+            "id": 1,
+            "title": "Cyclone Relief Distribution",
+            "image": "/src/assets/all_imag/all_imag/sylhet/sylhet_flood-1.jpg",
+            "description": "Providing aid to victims of natural disasters, including food, clean water, and basic necessities."
+        },
+        {
+            "id": 2,
+            "title": "Winter Blanket Distribution",
+            "image": "/src/assets/all_imag/all_imag/blanket_dist/blanket_dist-10.jpg",
+            "description": "Supplying blankets to people affected by cold weather, focusing on rural and underprivileged areas."
+        },
+        {
+            "id": 3,
+            "title": "Ramadan Iftar Program",
+            "image": "/src/assets/all_imag/all_imag/food_dist/food_dist-1.jpg",
+            "description": "Distributing iftar food items to the needy during the holy month of Ramadan."
+        },
+        {
+            "id": 4,
+            "title": "Educational & Construction Material Support",
+            "image": "/src/assets/all_imag/all_imag/edu_equip_dist/edu_equip_dist-14.jpg",
+            "description": "Providing books, stationery, and construction materials to religious and educational institutions."
+        },
+        {
+            "id": 5,
+            "title": "Seminars & Awareness Programs",
+            "image": "/src/assets/all_imag/all_imag/train_prog/train_prog-12.jpg",
+            "description": "Organizing educational and awareness seminars on health, environment, and social issues."
+        },
+        {
+            "id": 6,
+            "title": "National Day Celebrations",
+            "image": "/src/assets/all_imag/all_imag/edu_equip_dist/edu_equip_dist-13.jpg",
+            "description": "Hosting cultural and educational programs to celebrate significant national events."
+        },
+        {
+            "id": 7,
+            "title": "Korbani (Qurbani) Service",
+            "image": "/src/assets/all_imag/all_imag/bm_dipo/bm_dipo-1.jpeg",
+            "description": "Organizing livestock sacrifice services, especially for expatriates, ensuring hygiene and environmental care."
+        }
+    ],
+    "planned_projects": [
+        {
+            "id": 1,
+            "title": "International Standard Educational Institutions",
+            "image": "/src/assets/all_imag/Future_Plan/Education_Zone.png",
+            "description": "Establishing religious and general education centers to develop a well-educated nation with strong moral values."
+        },
+        {
+            "id": 2,
+            "title": "Hospitals & Diagnostic Centers",
+            "image": "/src/assets/all_imag/Future_Plan/Hospital.png",
+            "description": "Setting up hospitals and diagnostic centers to provide affordable, high-quality medical services."
+        },
+        {
+            "id": 3,
+            "title": "Publishing House",
+            "image": "/src/assets/all_imag/Future_Plan/Media&PublishingHouse.png",
+            "description": "Printing and distributing books, magazines, and research journals to promote knowledge and education."
+        },
+        {
+            "id": 4,
+            "title": "Media Organization",
+            "image": "/src/assets/all_imag/Future_Plan/Media&PublishingHouse.png",
+            "description": "Creating an independent media platform to provide objective news and educational content."
+        }
+    ],
+    "donation_funds": [
+        {
+            "id": 1,
+            "title": "Zakat Fund",
+            "description": "Your Zakat contributions are strictly used for the welfare of the poor and those eligible as per Islamic guidelines."
+        },
+        {
+            "id": 2,
+            "title": "General Fund",
+            "description": "Contributions to the general fund support our administrative costs and various social development initiatives."
+        }
+    ]
+}
