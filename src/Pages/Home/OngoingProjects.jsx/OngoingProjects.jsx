@@ -6,6 +6,7 @@ import { Autoplay, Navigation, Pagination } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
+import { Link } from 'react-router';
 
 const OngoingProjects = () => {
   const [projects, setProjects] = useState([]);
@@ -67,10 +68,12 @@ const OngoingProjects = () => {
                     {project.description}
                   </p>
                   
+                  <Link to={"/Projects"}>
                   <button className="group flex items-center justify-center w-full py-3 px-4 border-2 border-emerald-600 text-emerald-700 font-bold rounded-xl hover:bg-emerald-600 hover:text-white transition-all duration-300">
                     See Details
                     <span className="ml-2 group-hover:translate-x-1 transition-transform">→</span>
                   </button>
+                  </Link>
                 </div>
               </div>
             </SwiperSlide>

@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router';
 
 const donationFunds = [
     {
@@ -10,7 +11,7 @@ const donationFunds = [
     {
         id: 2,
         title: "Zakat Fund",
-        image: "/src",
+        image: "/src/assets/all_imag/all_imag/medical equip_dist/medical equip_dist-2.JPG",
         description: "Contributions to the general fund support our administrative costs and various social development initiatives."
     }
 ];
@@ -57,9 +58,11 @@ const DonationFunds = () => {
                                 </p>
 
                                 {/* Donate Button */}
+                               <Link to={"/Donation"}>
                                 <button className="w-full py-3.5 bg-emerald-600 text-white font-bold rounded-xl shadow-lg shadow-emerald-200 hover:bg-emerald-700 hover:shadow-emerald-300 transition-all duration-300 active:scale-95">
                                     Donate Now
                                 </button>
+                               </Link>
                             </div>
                         </div>
                     ))}

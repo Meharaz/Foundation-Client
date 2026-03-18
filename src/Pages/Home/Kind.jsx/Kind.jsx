@@ -1,5 +1,6 @@
 import React from 'react';
 import { FaGraduationCap, FaHandHoldingMedical } from 'react-icons/fa';
+import { Link } from 'react-router';
 
 const Kind = () => {
     return (
@@ -16,7 +17,7 @@ const Kind = () => {
                 <div className="flex flex-col items-center  md:pt-0">
                     <div className="text-yellow-600 mb-4">
                         {/* Graduation Cap Icon */}
-                        <FaGraduationCap className='text-5xl text-green-700'/>
+                        <FaGraduationCap className='text-5xl text-green-700' />
                     </div>
                     <h3 className="text-2xl font-bold text-teal-900 mb-4">Good Education</h3>
                     <p className="text-gray-700 leading-relaxed text-sm">
@@ -28,7 +29,7 @@ const Kind = () => {
                 <div className="flex flex-col items-center px-6 pt-8 md:pt-0">
                     <div className="text-yellow-600 mb-4">
                         {/* Helping Hands Icon */}
-                       <FaHandHoldingMedical className='text-5xl text-green-700'/>
+                        <FaHandHoldingMedical className='text-5xl text-green-700' />
                     </div>
                     <h3 className="text-2xl font-bold text-teal-900 mb-4">Good Health</h3>
                     <p className="text-gray-700 leading-relaxed text-sm">
@@ -42,9 +43,11 @@ const Kind = () => {
 
             {/* Call to Action Button */}
             <div className="mt-12">
-                <button className="bg-[#008a45] hover:bg-green-700 text-white font-semibold py-3 px-8 rounded flex items-center justify-center mx-auto transition duration-300">
-                    Learn More <span className="ml-2">→</span>
-                </button>
+                <Link to={"/About"}>
+                    <button className="bg-[#008a45] hover:bg-green-700 text-white font-semibold py-3 px-8 rounded flex items-center justify-center mx-auto transition duration-300">
+                        Learn More <span className="ml-2">→</span>
+                    </button>
+                </Link>
             </div>
         </section>
     );
