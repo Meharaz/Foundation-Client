@@ -5,13 +5,13 @@ const donationFunds = [
     {
         id: 1,
         title: "General Fund",
-        image: "/src/assets/all_imag/all_imag/sylhet/sylhet_flood-1.jpg",
+        image: "../../../assets/all_imag/all_imag/sylhet/sylhet_flood-1.jpg",
         description: "Your contribution to the general fund allows us to respond immediately where the need is greatest, covering urgent relief and operational costs."
     },
     {
         id: 2,
         title: "Zakat Fund",
-        image: "/src/assets/all_imag/all_imag/medical equip_dist/medical equip_dist-2.JPG",
+        image: "../../../assets/all_imag/all_imag/medical equip_dist/medical equip_dist-2.JPG",
         description: "Contributions to the general fund support our administrative costs and various social development initiatives."
     }
 ];

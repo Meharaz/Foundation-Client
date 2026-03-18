@@ -4,12 +4,12 @@ import { FaArrowRight } from "react-icons/fa";
 const Gallery = () => {
     // Using paths relative to your 'public' folder as requested
     const photos = [
-        { id: 1, url: "/src/assets/all_imag/all_imag/sylhet/sylhet_flood-1.jpg" },
-        { id: 2, url: "/src/assets/all_imag/all_imag/blanket_dist/blanket_dist-10.jpg" },
-        { id: 3, url: "/src/assets/all_imag/all_imag/edu_equip_dist/edu_equip_dist-13.jpg" },
-        { id: 4, url: "/src/assets/all_imag/all_imag/bm_dipo/bm_dipo-1.jpeg" },
-        { id: 5, url: "/src/assets/all_imag/all_imag/agm/agm-2.jpeg" }, // Reuse for placeholder
-        { id: 6, url: "/src/assets/all_imag/all_imag/blanket_dist/blanket_dist-11.jpg" }, // Reuse for placeholder
+        { id: 1, url: "../../../assets/all_imag/all_imag/sylhet/sylhet_flood-1.jpg" },
+        { id: 2, url: "../../../assets/all_imag/all_imag/blanket_dist/blanket_dist-10.jpg" },
+        { id: 3, url: "../../../assets/all_imag/all_imag/edu_equip_dist/edu_equip_dist-13.jpg" },
+        { id: 4, url: "../../../assets/all_imag/all_imag/bm_dipo/bm_dipo-1.jpeg" },
+        { id: 5, url: "../../../assets/all_imag/all_imag/agm/agm-2.jpeg" }, // Reuse for placeholder
+        { id: 6, url: "../../../assets/all_imag/all_imag/blanket_dist/blanket_dist-11.jpg" }, // Reuse for placeholder
     ];
 
     return (

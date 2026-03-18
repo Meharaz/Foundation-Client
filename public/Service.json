@@ -5,7 +5,8 @@
     "short_description": "24/7 emergency and non-emergency ambulance support with trained staff.",
     "category": "Health",
     "availability": "24/7",
-    "image": "/src/assets/all_imag/all_imag/ambulance_svc/ambulance_svc-1.JPG"
+    "image": "../src/assets/all_imag/all_imag/ambulance_svc/ambulance_svc-1.JPG"
+
   },
   {
     "id": 2,
@@ -13,7 +14,7 @@
     "short_description": "Online doctor consultations and prescriptions through video or phone.",
     "category": "Health",
     "availability": "Everyday, 8 AM - 10 PM",
-    "image": "/src/assets/all_imag/all_imag/train_prog/train_prog-1.jpeg"
+    "image": "../src/assets/all_imag/all_imag/train_prog/train_prog-1.jpeg"
   },
   {
     "id": 3,
@@ -21,7 +22,7 @@
     "short_description": "Find donors, request blood, and manage donation drives.",
     "category": "Health",
     "availability": "On Request",
-    "image": "/src/assets/all_imag/all_imag/blood_grp_camp/blood_grp_camp-1.jpeg"
+    "image": "../src/assets/all_imag/all_imag/blood_grp_camp/blood_grp_camp-1.jpeg"
   },
   {
     "id": 4,
@@ -29,7 +30,7 @@
     "short_description": "Provide books, stationery, and digital devices for students in need.",
     "category": "Education",
     "availability": "Monthly Distribution",
-    "image": "/src/assets/all_imag/all_imag/edu_equip_dist/edu_equip_dist-14.jpg"
+    "image": "../src/assets/all_imag/all_imag/edu_equip_dist/edu_equip_dist-14.jpg"
   },
   {
     "id": 5,
@@ -37,7 +38,7 @@
     "short_description": "Transparent and targeted zakat distribution to eligible individuals.",
     "category": "Charity",
     "availability": "Ramadan & Special Requests",
-    "image": "/src/assets/all_imag/all_imag/sylhet/sylhet_flood-2.jpg"
+    "image": "../src/assets/all_imag/all_imag/sylhet/sylhet_flood-2.jpg"
   },
   {
     "id": 6,
@@ -45,7 +46,7 @@
     "short_description": "Medical oxygen supply for patients at home or in hospital.",
     "category": "Health",
     "availability": "24/7",
-    "image": "/src/assets/all_imag/all_imag/oxygen_svc/oxygen-svc-1.jpg"
+    "image": "../src/assets/all_imag/all_imag/oxygen_svc/oxygen-svc-1.jpg"
   },
   {
     "id": 7,
@@ -53,6 +54,6 @@
     "short_description": "Provide manual and electric wheelchairs to people with mobility issues.",
     "category": "Health & Accessibility",
     "availability": "On Request",
-    "image": "/src/assets/all_imag/all_imag/medical equip_dist/medical equip_dist-3.JPG"
+    "image": "../src/assets/all_imag/all_imag/medical equip_dist/medical equip_dist-3.JPG"
   }
 ]
