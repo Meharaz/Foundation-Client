@@ -11,21 +11,21 @@ const Blogs = () => {
         id: 1,
         title: "Relief Activities for Flood-Affected People in Sylhet",
         date: "25 May 2024",
-        image: "/src/assets/all_imag/all_imag/sylhet/sylhet_flood-1.jpg",
+        image: "/assets/all_imag/all_imag/sylhet/sylhet_flood-1.jpg",
         category: "Relief"
       },
       {
         id: 2,
         title: "Winter Blanket Distribution Among the Needy",
         date: "10 Jan 2024",
-        image: "/src/assets/all_imag/all_imag/blanket_dist/blanket_dist-10.jpg",
+        image: "/assets/all_imag/all_imag/blanket_dist/blanket_dist-10.jpg",
         category: "Social Welfare"
       },
       {
         id: 3,
         title: "Educational Equipment Distribution to Rural Students",
         date: "15 Mar 2024",
-        image: "/src/assets/all_imag/all_imag/edu_equip_dist/edu_equip_dist-13.jpg",
+        image: "/assets/all_imag/all_imag/edu_equip_dist/edu_equip_dist-13.jpg",
         category: "Education"
       }
     ];
